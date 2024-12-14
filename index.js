@@ -44,5 +44,5 @@ function clothingbar(){
 }
  clothingbar();
  //push pt2
- 
+ //fixed asf
 
