@@ -43,5 +43,6 @@ function clothingbar(){
     }
 }
  clothingbar();
- //push
+ //push pt2
+ 
 
